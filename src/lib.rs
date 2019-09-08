@@ -20,7 +20,7 @@
 //! use futures_util::stream::StreamExt;
 //! use futures::future;
 //!# use std::{time, collections::HashMap, thread};
-//!# use utilities::*;
+//!# use kineasy_test_utils::*;
 //! use tokio;
 //!# use utilities;
 //!

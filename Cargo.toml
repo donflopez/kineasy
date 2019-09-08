@@ -31,4 +31,4 @@ native-tls = "0.2.3"
 hyper-tls = "0.3.2"
 dockers = "0.1.6"
 chrono = "0.4.9"
-kineasy_test_utils = {version = "0.1.0"}
+kineasy_test_utils = "0.1.0"
