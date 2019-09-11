@@ -22,7 +22,6 @@
 //!# use std::{time, collections::HashMap, thread};
 //!# use kineasy_test_utils::*;
 //! use tokio;
-//!# use utilities;
 //!
 //! fn main () {
 //!#     let localstack = "localstack/localstack".to_owned();
